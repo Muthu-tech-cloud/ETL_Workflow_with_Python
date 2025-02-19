@@ -1,0 +1,9 @@
+Starting extraction
+Extracting: D:\\Muthu\\source\\source1.csv
+Extracting: D:\\Muthu\\source\\source1.json
+Extracting: D:\\Muthu\\source\\source1.xml
+Extraction completed
+Starting transformation
+Transformation completed
+Saving to: transformed_data.csv
+Data saved
